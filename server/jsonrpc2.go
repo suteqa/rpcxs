@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/suqa/rpcxs/protocol"
-	"github.com/suqa/rpcxs/share"
+	"github.com/suteqa/rpcxs/protocol"
+	"github.com/suteqa/rpcxs/share"
 	"github.com/rs/cors"
 )
 

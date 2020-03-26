@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/cocobao/log"
-	"github.com/suqa/rpcxs/share"
+	"github.com/suteqa/rpcxs/share"
 )
 
 type ConnFactoryFn func(c *Client, network, address string) (net.Conn, error)

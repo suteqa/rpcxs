@@ -1,4 +1,4 @@
-module github.com/suqa/rpcxs
+module github.com/suteqa/rpcxs
 
 go 1.13
 

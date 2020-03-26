@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/suqa/rpcxs/protocol"
-	"github.com/suqa/rpcxs/share"
+	"github.com/suteqa/rpcxs/protocol"
+	"github.com/suteqa/rpcxs/share"
 )
 
 // InprocessClient is a in-process client for test.

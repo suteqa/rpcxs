@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"log"
-	"github.com/suqa/rpcxs/client"
+	"github.com/suteqa/rpcxs/client"
 	"time"
 )
 

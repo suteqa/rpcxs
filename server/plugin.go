@@ -4,8 +4,8 @@ import (
 	"context"
 	"net"
 
-	"github.com/suqa/rpcxs/errors"
-	"github.com/suqa/rpcxs/protocol"
+	"github.com/suteqa/rpcxs/errors"
+	"github.com/suteqa/rpcxs/protocol"
 )
 
 //PluginContainer represents a plugin container that defines all methods to manage plugins.

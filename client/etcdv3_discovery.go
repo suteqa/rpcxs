@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/cocobao/log"
-	"github.com/suqa/rpcxs/serverplugin/etcdv3store"
+	"github.com/suteqa/rpcxs/serverplugin/etcdv3store"
 	"github.com/docker/libkv"
 	"github.com/docker/libkv/store"
 )

@@ -14,8 +14,8 @@ import (
 	"time"
 
 	"github.com/cocobao/log"
-	"github.com/suqa/rpcxs/protocol"
-	"github.com/suqa/rpcxs/share"
+	"github.com/suteqa/rpcxs/protocol"
+	"github.com/suteqa/rpcxs/share"
 	circuit "github.com/rubyist/circuitbreaker"
 )
 

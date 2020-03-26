@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"github.com/rcrowley/go-metrics"
-	"github.com/suqa/rpcxs/server"
-	"github.com/suqa/rpcxs/serverplugin"
+	"github.com/suteqa/rpcxs/server"
+	"github.com/suteqa/rpcxs/serverplugin"
 	"testing"
 	"time"
 )

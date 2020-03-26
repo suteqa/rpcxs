@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/suqa/rpcxs/util"
+	"github.com/suteqa/rpcxs/util"
 )
 
 var (

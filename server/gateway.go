@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/cocobao/log"
-	"github.com/suqa/rpcxs/protocol"
-	"github.com/suqa/rpcxs/share"
+	"github.com/suteqa/rpcxs/protocol"
+	"github.com/suteqa/rpcxs/share"
 	"github.com/julienschmidt/httprouter"
 	"github.com/rs/cors"
 	"github.com/soheilhy/cmux"

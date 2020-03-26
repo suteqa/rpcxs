@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/cocobao/log"
-	"github.com/suqa/rpcxs/server"
+	"github.com/suteqa/rpcxs/server"
 	lru "github.com/hashicorp/golang-lru"
 )
 

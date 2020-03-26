@@ -13,10 +13,10 @@ import (
 	"sync"
 	"time"
 
-	ex "github.com/suqa/rpcxs/errors"
-	"github.com/suqa/rpcxs/protocol"
-	"github.com/suqa/rpcxs/serverplugin"
-	"github.com/suqa/rpcxs/share"
+	ex "github.com/suteqa/rpcxs/errors"
+	"github.com/suteqa/rpcxs/protocol"
+	"github.com/suteqa/rpcxs/serverplugin"
+	"github.com/suteqa/rpcxs/share"
 	"github.com/juju/ratelimit"
 )
 

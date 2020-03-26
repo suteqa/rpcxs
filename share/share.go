@@ -1,8 +1,8 @@
 package share
 
 import (
-	"github.com/suqa/rpcxs/codec"
-	"github.com/suqa/rpcxs/protocol"
+	"github.com/suteqa/rpcxs/codec"
+	"github.com/suteqa/rpcxs/protocol"
 )
 
 const (

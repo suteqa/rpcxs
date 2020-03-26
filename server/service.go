@@ -12,7 +12,7 @@ import (
 	"unicode/utf8"
 
 	"github.com/cocobao/log"
-	rerrors "github.com/suqa/rpcxs/errors"
+	rerrors "github.com/suteqa/rpcxs/errors"
 )
 
 // Precompute the reflect type for error. Can't use error directly

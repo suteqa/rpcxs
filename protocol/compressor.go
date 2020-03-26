@@ -1,6 +1,6 @@
 package protocol
 
-import "github.com/suqa/rpcxs/util"
+import "github.com/suteqa/rpcxs/util"
 
 // Compressor defines a common compression interface.
 type Compressor interface {

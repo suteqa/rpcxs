@@ -3,7 +3,7 @@ package serverplugin
 import (
 	"errors"
 	"fmt"
-	"github.com/suqa/rpcxs/serverplugin/etcdv3store"
+	"github.com/suteqa/rpcxs/serverplugin/etcdv3store"
 	"github.com/cocobao/log"
 	"github.com/docker/libkv"
 	"github.com/docker/libkv/store"
